@@ -1,0 +1,7 @@
+api/
+api-develop/
+api-staging/
+dashboard/
+dashboard-develop/
+dashboard-staging/
+config.php
